@@ -8,7 +8,7 @@ using namespace std;
 int main()
 {
 	int choice;
-	string filename("data3.txt");
+	string filename("data.txt");
 	
 	bus rst, clk;
 	bus read, write;
